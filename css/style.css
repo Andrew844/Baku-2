@@ -1,0 +1,51 @@
+.portfolio-slider {
+	margin: 50px 60px;
+	padding: 50px 60px;
+	background-color: #ffffff;
+	box-shadow: 6px 10px 18px 0px rgba(0,0,0,0.11);
+}
+.prices .col-md-4 {
+	margin-bottom: 30px;
+}
+.prices .text-center {
+	margin-bottom: 100px;
+}
+.prices .row-two {
+	margin-bottom: 220px;
+}
+.answers {
+	margin-bottom: 220px;
+}
+
+@media screen and (max-width:320px){
+  .portfolio-slider{
+    padding: 0;
+    margin: 0;
+    box-shadow: 0;
+  }
+  .portfolio-slider .fotorama {
+  	display: block;
+  	width: 100%;
+  }
+  .portfolio-slider p{
+  	display: block;
+  	padding: 20px;
+  	float: left;
+  }
+}
+@media screen and (max-width:620px){
+  .portfolio-slider{
+    padding: 0;
+    margin: 0;
+    box-shadow: 0;
+  }
+  .portfolio-slider .fotorama {
+  	display: block;
+  	width: 100%;
+  }
+  .portfolio-slider p{
+  	display: block;
+  	padding: 20px;
+  	float: left;
+  }
+}
