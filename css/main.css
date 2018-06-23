@@ -51,7 +51,7 @@ a {
   -o-transition: all .5s;
   transition: all .5s; }
   a:hover, a:focus {
-    color: #f49841;
+    color: #0AB2C9;
     text-decoration: none; }
   a:active {
     color: #9de0e9; }
@@ -110,7 +110,7 @@ form .form-item {
 form .personal {
   margin-top: 10px; }
   form .personal label {
-    color: #f49841;
+    color: #0AB2C9;
     padding-left: 29px; }
   form .personal input {
     display: none; }
@@ -355,7 +355,7 @@ header nav.mobile {
         padding: 30px 0;
         text-align: center; }
         header nav.mobile ul li a:hover {
-          background: #f49841;
+          background: #0AB2C9;
           text-decoration: none; }
 
 header .table {
@@ -397,7 +397,7 @@ header .navigation {
         transition: all .3s;
         text-decoration: none; }
         header .navigation nav ul li a:hover, header .navigation nav ul li a.mPS2id-clicked {
-          color: #f49841; }
+          color: #0AB2C9; }
   header .navigation .phone {
     color: #fff;
     text-align: right; }
@@ -415,7 +415,7 @@ header .navigation {
         -o-transition: all .5s;
         transition: all .5s; }
         header .navigation .phone .phone-number a:hover {
-          color: #f49841;
+          color: #0AB2C9;
           text-decoration: none; }
     header .navigation .phone .work-time {
       font-size: 12px;
@@ -461,7 +461,7 @@ header .navigation.fixed {
         transition: all .3s;
         text-decoration: none; }
         header .navigation.fixed nav ul li a:hover, header .navigation.fixed nav ul li a.mPS2id-clicked {
-          color: #f49841; }
+          color: #0AB2C9; }
   header .navigation.fixed .phone {
     color: #000; }
     header .navigation.fixed .phone a {
@@ -1211,7 +1211,7 @@ section.offer {
       margin-top: 43px; }
       section.offer form .form .personal label {
         padding-left: 29px;
-        color: #f49841; }
+        color: #0AB2C9; }
       section.offer form .form .personal input {
         display: none; }
       section.offer form .form .personal input + label {
@@ -1418,7 +1418,7 @@ section.answers .answer-box {
       -o-transition: all .5s;
       transition: all .5s; }
       section.answers .answer-box p.link a:hover {
-        color: #f49841;
+        color: #0AB2C9;
         text-decoration: none; }
 
 section.answers .hide-question {
@@ -1722,7 +1722,7 @@ footer {
         color: #fff;
         text-decoration: none; }
         footer nav ul li a:hover, footer nav ul li a:focus {
-          color: #f49841;
+          color: #0AB2C9;
           text-decoration: none; }
   footer .phone {
     color: #fff;
@@ -1742,7 +1742,7 @@ footer {
         -o-transition: all .5s;
         transition: all .5s; }
         footer .phone .phone-number a:hover {
-          color: #f49841;
+          color: #0AB2C9;
           text-decoration: none; }
     footer .phone .work-time {
       font-size: 12px;
